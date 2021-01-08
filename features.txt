@@ -1,0 +1,5 @@
+> Home Page with search bar
+> Dynamic link to the movie page
+> query api on change of an input
+> show results below input
+> click on results to show the movie details
